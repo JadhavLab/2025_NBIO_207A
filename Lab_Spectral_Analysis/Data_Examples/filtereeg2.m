@@ -1,5 +1,7 @@
 function filteredeegstruct = filtereeg2(raweegstruct, filterstruct, varargin)
-% Use: thetadata = filtereeg2(eggdata,thetafilter);
+% Use: thetadata = filtereeg2(eegdata,thetafilter);
+%
+
 %   filtereeg2(raweegstruct, filterstruct, options)
 %
 % Applies the specified zero-phase finite impulse response FILTER to the
